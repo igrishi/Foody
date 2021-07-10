@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Foody</string>
+    <string name="search">Search for food</string>
+    <string name="instructions">Instructions :</string>
+    <string name="ingredients">Ingredients :</string>
+    <string name="favourites">Favourites</string>
+</resources>
